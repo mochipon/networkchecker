@@ -1,0 +1,4 @@
+dnspython==1.16.0
+PyChromecast==1.0.3
+requests==2.21.0
+zeroconf==0.17.7
